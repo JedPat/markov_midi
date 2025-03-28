@@ -1,9 +1,6 @@
-# markov_midi
-Symbolic Markov-chain-based music algorithm
+# AI music generator
 
-The algorithm was designed to generate new algorithmic melodies markov-based on the input ones.
-
-From I to X stands for Markov chain order.
+The algorithm was designed to generate new algorithmic melodies based on the input ones.
 
 Output MIDI files have to be instrumented in any DAW software to be heard.
 
