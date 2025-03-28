@@ -1,6 +1,6 @@
 # AI music generator
 
-The algorithm was designed to generate new algorithmic melodies based on the input ones.
+This AI algorithm was designed to generate new melodies based on the input ones.
 
 Output MIDI files have to be instrumented in any DAW software to be heard.
 
